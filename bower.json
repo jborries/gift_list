@@ -1,0 +1,21 @@
+{
+  "name": "mean_belt_bucket_list",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Jesse Borries <jesse.borries@Gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1"
+  }
+}
